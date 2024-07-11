@@ -1,4 +1,3 @@
-# Project_IBM-_INTERNSHIP
 # Airbnb Listings Analysis in New York City
 
 ## Overview
